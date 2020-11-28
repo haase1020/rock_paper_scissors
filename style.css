@@ -23,9 +23,9 @@ body {
 }
 
 .header {
-  background: dodgerblue;
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
+  background: rgb(255, 120, 30);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   height: 100px;
   display: flex;
   justify-content: center;
@@ -52,13 +52,13 @@ h2 {
 
 #player .far,
 #player .choice {
-  color: dodgerblue;
+  color:rgb(133, 43, 235);
   cursor: pointer;
 }
 
 #computer .far,
 #computer .choice {
-  color: rgb(235, 43, 52);
+  color: rgb(73, 199, 56);
 }
 
 #player .far:last-of-type,
@@ -90,7 +90,7 @@ h2 {
 
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
-  .game-container {
+  .game-contaier {
     width: 95%;
     height: 580px;
   }
