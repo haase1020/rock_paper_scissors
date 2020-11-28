@@ -5,7 +5,7 @@ A fun vanilla JavaScript app for playing rock paper scissors...with a twist!
 ## ✨ Hi There!, I'm Mandi, and I love JavaScript✨
 
 - 🤸 This project is part of the Vanilla JavaScript Series offered By [Zero to Mastery Academy](https://zerotomastery.io/)
-- 🤸 In this fun app, you get to practice working with JavaScript modules [modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- 🤸 In this fun app, you get to practice working with JavaScript [modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 
 
